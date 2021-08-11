@@ -1,2 +1,3 @@
 # demo-repo
-Learn Git
+
+Learn Git! This makes a lot of fun :) 
