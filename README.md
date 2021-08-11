@@ -7,3 +7,7 @@ Learn Git! This makes a lot of fun :)
 
 This code was written in Visual Studio.
 Okay
+
+## Local Development
+
+open it in your browser and let's see.
