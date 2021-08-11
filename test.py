@@ -12,3 +12,5 @@ if a < 5 :
 else :
         print("Die Zahl " + str(a) +   " ist groesser/gleich 5")
 
+print("Was ist 8+2")
+print("Das ist 10.")
